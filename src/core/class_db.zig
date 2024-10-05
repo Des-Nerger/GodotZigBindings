@@ -22,7 +22,7 @@ const method_flag_object_core = 64;
 const property_hint_none = 0;
 const property_hint_resource_type = 17;
 
-const property_usage_default = 0;
+const property_usage_default = 6;
 
 
 pub const ClassDB = struct {
